@@ -7,6 +7,37 @@ public class Main {
 
     public static String reponse;
 
+    public static void fahrenheittocelsius(){
+        while (true) {
+            Scanner sc = new Scanner(System.in);
+            System.out.println("\n\n___________________________\nConvertir: \n[1] Fahrenheit - Celsius  |  [2] Celsius - Fahrenheit\n[3] Retour");
+            reponse = sc.nextLine();
+            if (reponse.equals("1")) {
+                double a = 0.0;
+                System.out.println("Entrez une temperature en fahrenheit: ");
+                try {
+                    a = sc.nextDouble();
+                    System.out.println("\n\nOutput: " + ((a - 32) * 5 / 9) + "°C");
+                }catch (InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+
+            } else if (reponse.equals("2")) {
+                double celsius = 0.0;
+                System.out.println("Entrez une temperature en celsius: ");
+                try {
+                    celsius = sc.nextDouble();
+                    System.out.println("\n\nOutput: " + ((celsius * 1.8) + 32) + "°F");
+                }catch (InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+            }else if (reponse.equals("3")){
+                break;
+            }
+        }
+    }
+
     public static void binarytodecimal(){
         // Below code inspired by: https://www.javatpoint.com/java-decimal-to-binary
 
@@ -121,14 +152,16 @@ public class Main {
         while(true){
             Scanner sc = new Scanner(System.in);
             System.out.println("\n\nQuelle conversion voulez-vous faire?");
-            System.out.println("\n[1] Binaire - Decimal  |  [2] Hexadecimal - Decimal");
+            System.out.println("\n[1] Binaire - Decimal  |  [2] Hexadecimal - Decimal\n" +
+                    "[3] Fahrenheit - Celsius");
             reponse = sc.nextLine();
 
             if (reponse.equals("1")){
                 Main.binarytodecimal();
             }else if (reponse.equals("2")){
                 Main.decimaltohexadecimal();
-
+            }else if (reponse.equals("3")){
+                Main.fahrenheittocelsius();
             }
         }
 
