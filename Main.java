@@ -7,9 +7,92 @@ public class Main {
 
     public static String reponse;
 
+    public static void ohmconvertor(){
+        while(true){
+            Scanner sc = new Scanner(System.in);
+            System.out.println("\n\n___________________________\nTrouver: \n[1] Une resistance (ohm)  |  [2] Une tension (volt)\n" +
+                    "[3] Une intensite de courant (ampere)\n[4] Retour");
+            reponse = sc.nextLine();
+            if (reponse.equals("1")) {
+                System.out.println("Entrez la tension (V): ");
+                double U = sc.nextDouble();
+                System.out.println("Entrez l'intensite (A): ");
+                double I = sc.nextDouble();
+                try{
+                    System.out.println("Output: "+ (U/I) +" Ω");
+
+                }catch(InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+            }else if (reponse.equals("2")){
+                System.out.println("Entrez la resistance (Ω): ");
+                double R = sc.nextDouble();
+                System.out.println("Entrez l'intensite (A): ");
+                double I = sc.nextDouble();
+                try{
+                    System.out.println("Output: "+ (R*I) +" V");
+
+                }catch(InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+            }else if (reponse.equals("3")){
+                System.out.println("Entrez la tension (V): ");
+                double U = sc.nextDouble();
+                System.out.println("Entrez la resistance (Ω): ");
+                double R = sc.nextDouble();
+                try{
+                    System.out.println("Output: "+ (U/R) +" Ω");
+
+                }catch(InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+            }else if (reponse.equals("4")){
+                break;
+            }else{
+                System.out.println("____________________________\n\nERREUR: Entree incorrecte: Entrez une option valide (1/2/3/4)");
+            }
+        }
+
+    }
+
+
+    public static void oncetoliters(){
+        while(true){
+            Scanner sc = new Scanner(System.in);
+            System.out.println("\n\n___________________________\nConvertir: \n[1] Litre - Ounce  |  [2] Ounce - Litre\n[3] Retour");
+            reponse = sc.nextLine();
+            if (reponse.equals("1")){
+                System.out.println("Entrez une valeur en litre.");
+                try{
+                    int litre = sc.nextInt();
+                    System.out.println("\n\nOutput:"+ litre * 33.81402 + " oz");
+
+                }catch(InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+            }else if (reponse.equals("2")){
+                System.out.println("Entrez une valeur en once (fl oz).");
+                try{
+                    int once = sc.nextInt();
+                    System.out.println("\n\nOutput:"+ once * 0.0295735296 + " L");
+
+                }catch(InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+            }else if (reponse.equals("3")){
+                break;
+            }else{
+                System.out.println("____________________________\n\nERREUR: Entree incorrecte: Entrez une option valide (1/2/3)");
+            }
+
+        }
+    }
 
     public static void ouncetograms(){
-
 
         while(true) {
             Scanner sc = new Scanner(System.in);
@@ -20,7 +103,7 @@ public class Main {
                 System.out.println("Entrez une valeur en Grammes: ");
                 try{
                     gramme = sc.nextDouble();
-                    System.out.println("Output: " + gramme * 0.035273962 + "oz");
+                    System.out.println("\n\nOutput: " + gramme * 0.035273962 + "oz");
                 }catch (InputMismatchException e){
                     System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
                 }
@@ -30,7 +113,7 @@ public class Main {
                 System.out.println("Entrez une valeur en Ounce: ");
                 try{
                     ounce = sc.nextDouble();
-                    System.out.println("Output: " + ounce * 28.34952 + "g");
+                    System.out.println("\n\nOutput: " + ounce * 28.34952 + "g");
                 }catch (InputMismatchException e){
                     System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
                 }
@@ -193,7 +276,8 @@ public class Main {
             Scanner sc = new Scanner(System.in);
             System.out.println("\n\nQuelle conversion voulez-vous faire?");
             System.out.println("\n[1] Binaire - Decimal  |  [2] Hexadecimal - Decimal\n" +
-                    "[3] Fahrenheit - Celsius  |  [4] Ounce - Grammes");
+                    "[3] Fahrenheit - Celsius  |  [4] Ounce - Grammes\n" +
+                    "[5] Once (fl oz) - Litre  |  [6] Convertisseur electrique (loi d'Ohm)");
             reponse = sc.nextLine();
 
             if (reponse.equals("1")){
@@ -204,6 +288,12 @@ public class Main {
                 Main.fahrenheittocelsius();
             }else if (reponse.equals("4")){
                 Main.ouncetograms();
+            }else if (reponse.equals("5")){
+                Main.oncetoliters();
+            }else if (reponse.equals("6")){
+                Main.ohmconvertor();
+            }else{
+                System.out.println("____________________________\n\nERREUR: Entree incorrecte: Entrez une option valide (1/2/3/4/5/6)");
             }
 
 
