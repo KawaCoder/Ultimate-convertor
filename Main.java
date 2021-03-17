@@ -7,6 +7,44 @@ public class Main {
 
     public static String reponse;
 
+
+    public static void ouncetograms(){
+
+
+        while(true) {
+            Scanner sc = new Scanner(System.in);
+            System.out.println("\n\n___________________________\nConvertir: \n[1] Grammes - Ounce  |  [2] Ounce - Grammes\n[3] Retour");
+            reponse = sc.nextLine();
+            if (reponse.equals("1")){
+                double gramme = 0.0;
+                System.out.println("Entrez une valeur en Grammes: ");
+                try{
+                    gramme = sc.nextDouble();
+                    System.out.println("Output: " + gramme * 0.035273962 + "oz");
+                }catch (InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+            }else if (reponse.equals("2")){
+                double ounce = 0.0;
+                System.out.println("Entrez une valeur en Ounce: ");
+                try{
+                    ounce = sc.nextDouble();
+                    System.out.println("Output: " + ounce * 28.34952 + "g");
+                }catch (InputMismatchException e){
+                    System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                }
+
+            }else if (reponse.equals("3")){
+                break;
+            }else{
+                System.out.println("____________________________\n\nERREUR: Entree incorrecte: Entrez une option valide (1/2/3)");
+            }
+
+
+        }
+    }
+
     public static void fahrenheittocelsius(){
         while (true) {
             Scanner sc = new Scanner(System.in);
@@ -34,6 +72,8 @@ public class Main {
                 }
             }else if (reponse.equals("3")){
                 break;
+            }else{
+                System.out.println("____________________________\n\nERREUR: Entree incorrecte: Entrez une option valide (1/2/3)");
             }
         }
     }
@@ -153,7 +193,7 @@ public class Main {
             Scanner sc = new Scanner(System.in);
             System.out.println("\n\nQuelle conversion voulez-vous faire?");
             System.out.println("\n[1] Binaire - Decimal  |  [2] Hexadecimal - Decimal\n" +
-                    "[3] Fahrenheit - Celsius");
+                    "[3] Fahrenheit - Celsius  |  [4] Ounce - Grammes");
             reponse = sc.nextLine();
 
             if (reponse.equals("1")){
@@ -162,11 +202,11 @@ public class Main {
                 Main.decimaltohexadecimal();
             }else if (reponse.equals("3")){
                 Main.fahrenheittocelsius();
+            }else if (reponse.equals("4")){
+                Main.ouncetograms();
             }
+
+
         }
-
-
-
-
     }
 }
