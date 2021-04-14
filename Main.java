@@ -70,29 +70,49 @@ public class Main {
                             "[3] Retour");
                     reponse = sc.nextLine();
                     if (reponse.equals("1")) {
-                        System.out.println("Entrez une valeur en seconde:");
-                        try {
-                            int seconde = sc.nextInt();
-                            sc.nextLine();
-                            int minute = seconde / 60;
-                            int heure = minute / 60;
-                            minute = minute % 60;
-                            System.out.println("Output: "+seconde+" s = "+heure+" h "+minute+" m "+(seconde%60)+" s.");
-                        } catch (InputMismatchException e) {
-                            System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                        while(true) {
+                            System.out.println("Entrez une valeur en seconde:");
+                            try {
+                                int seconde = sc.nextInt();
+                                sc.nextLine();
+                                int minute = seconde / 60;
+                                int heure = minute / 60;
+                                minute = minute % 60;
+                                System.out.println("Output: " + seconde + " s = " + heure + " h " + minute + " m " + (seconde % 60) + " s.");
+                            } catch (InputMismatchException e) {
+                                System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                            }
+                            System.out.println("\n\nContinuer? o/n");
+                            reponse = sc.nextLine();
+                            if (reponse.equals("n")) {
+                                break;
+                            }
                         }
-                        System.out.println("\n\nContinuer? o/n");
-                        reponse = sc.nextLine();
-                        if (reponse.equals("n")) {
-                            break;
+                    }else if (reponse.equals("2")) {
+                        while (true) {
+                            System.out.println("Entrez une valeur en heure:");
+                            try {
+                                long seconde = sc.nextLong();
+                                sc.nextLine();
+                                System.out.println("Output: " + seconde + " s = " + seconde * 3600 + " h.");
+                            } catch (InputMismatchException e) {
+                                System.out.println("\n\nERREUR: Entree incorrecte: Entrez un nombre.");
+                            }
+                            System.out.println("\n\nContinuer? o/n");
+                            reponse = sc.nextLine();
+                            if (reponse.equals("n")) {
+                                break;
+                            }
                         }
-                    }
 
 
                     }
                 }
+            }else if (reponse.equals("3")){
+
             }
         }
+    }
 
 
     public static void ohmconvertor(){
