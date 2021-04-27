@@ -17,7 +17,11 @@ La documentation est en développement
 
 ## Comment utiliser Ultimate-convertor?
 Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suivant ce lien: https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe
-Ensuite, vous aurez besoin de lancer le logiciel. Il se peut que votre ordinateur affiche ce message:
+Ensuite, vous aurez besoin de lancer le logiciel.
+<br/>
+## Cas particulier
+
+Il se peut que votre ordinateur affiche ce message:
 <br/>
 <br/>
 
