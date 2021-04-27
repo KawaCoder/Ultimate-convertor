@@ -19,7 +19,15 @@ La documentation est en développement
 Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suivant ce lien: https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe
 Ensuite, vous aurez besoin de lancer le logiciel.
 <br/>
-## Cas particulier
+<br/>
+![image](https://user-images.githubusercontent.com/67145585/116277111-76c45780-a785-11eb-9d5c-0d9ba2a146a3.png)
+<br/>
+Cette fenêtre va donc s'ouvrir, et le logiciel est prêt! Maintenant, il vous faut séléctionner une des conversion, simplement en entrant au clavier une des 7 options disponibles. Ensuite, d'autres options vont s'afficher, comme dans l'image ci-dessous:
+<br/>
+![image](https://user-images.githubusercontent.com/67145585/116277718-0964f680-a786-11eb-8aef-7fc9d8eef229.png)
+<br/>
+
+## Cas particuliers et erreurs internes
 
 Il se peut que votre ordinateur affiche ce message:
 <br/>
