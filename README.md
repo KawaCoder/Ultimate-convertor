@@ -1,8 +1,3 @@
-## Documentation under development!
-
-[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
-
-
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Downloads
@@ -48,5 +43,9 @@ Vous devez suivre ces étapes:
 <br/>
 
 ![Untitled3](https://user-images.githubusercontent.com/67145585/116275972-5d6edb80-a784-11eb-91f7-f593722ca72c.png)
+
+## Contact
+
+[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
 
 icône de l'éxécutable faite par: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
