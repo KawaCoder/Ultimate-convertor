@@ -6,8 +6,10 @@
 
 # Ultimate-convertor
 ## Table of content:<br/>
-1. [Downloads](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
-2. [About the program]()
+### 1. [Downloads](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
+### 2. [About the program](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
+### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
+### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
 
 
 ## Downloads
@@ -31,8 +33,16 @@ This window will open, and the program is ready! Now you have to select one of t
 ![image](https://user-images.githubusercontent.com/67145585/116277718-0964f680-a786-11eb-8aef-7fc9d8eef229.png)
 <br/>
 Then simply select what you want to convert and continue surfing with these commands.
+<br/><br/>
+# Special cases and internal errors
+<br/><br/>
+## Table of content:<br/>
+### 1. "Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
+### 2. [About the program](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
+### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
+### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
 
-## Special cases and internal errors
+## "Windows Protected Your PC” Popup
 
 If you are using Windows, your computer may display this message:
 <br/>
