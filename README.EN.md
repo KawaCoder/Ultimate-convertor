@@ -6,6 +6,7 @@
 ### 2. [About the program](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
 ### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
 ### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
+### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#contact)
 
 
 ## Downloads
@@ -71,8 +72,13 @@ If this showed up, it is that you entered a wrong option into a menu. Only showe
 
 ## ERREUR: Entree incorrecte: Valeur non binaire.
 
-If this message showed up, it means that you have to enter a binary number (only made up of 1 and 0). If you have problem, do not hesitate to contact me!
+If this message shows up, it means that you have to enter a binary number (only made up of 1 and 0). If you have problem, do not hesitate to contact me!
 
+<br/><br/>
+
+## ERREUR: Entree incorrecte: Entrez un nombre.
+
+If this message shows up, it means that you have to enter a number, and not a letter/other character
 
 ## Contact
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
