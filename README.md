@@ -16,12 +16,20 @@ Ultimate convertor peut facilement convertir tout ce dont vous avez besoin! Comm
 La documentation est en développement
 
 ## Comment utiliser Ultimate-convertor?
-Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suivant ce lien: [pas encore de release.]
-Ensuite, vous aurez besoin de lancer le logiciel. Votre ordinateur va vous afficher ce message:
+Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suivant ce lien: https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe
+Ensuite, vous aurez besoin de lancer le logiciel. Il se peut que votre ordinateur affiche ce message:
+<br/>
+<br/>
+![Untitled](https://user-images.githubusercontent.com/67145585/116274745-395eca80-a783-11eb-8568-7ebfc48130d2.png)
 <br/>
 <br/>
 ATTENTION: cela ne signifie pas que ce logiciel est un virus! c'est simplement qu'il n'est pas signé, et donc pas certifié par windows. Mais cela n'a aucun impact sur votre ordinateur.
 Vous devez suivre ces étapes:
 <br/>
 <br/>
+![Untitled2](https://user-images.githubusercontent.com/67145585/116275294-c86be280-a783-11eb-8caa-ccf250b3bd69.png)
+<br/>
+<br/>
+![Untitled3](https://user-images.githubusercontent.com/67145585/116275972-5d6edb80-a784-11eb-91f7-f593722ca72c.png)
+
 icône de l'éxécutable faite par: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
