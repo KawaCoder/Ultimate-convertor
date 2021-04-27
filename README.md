@@ -1,6 +1,6 @@
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## Downloads
+## Téléchargements
 
 [![hey](https://img.shields.io/badge/Download%20.exe-181717?style=for-the-badge&color=blue&logo=windows)](https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe)
 
@@ -8,11 +8,11 @@
 <br/>
 <br/>
 ## Table of content:<br/>
-### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#téléchargements)<br/>
-### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#a-propos-du-programme)<br/>
-### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
-### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
-### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#contact)
+### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#téléchargements)<br/>
+### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#a-propos-du-programme)<br/>
+### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#how-to-use-ultimate-convertor)
+### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#Cas-particuliers-et-erreurs-internes)
+### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact)
 
 <br/>
 <br/>
