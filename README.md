@@ -5,4 +5,4 @@ Ultimate convertor can easily convert all that you need! Like convert decimal to
 French Strings output!
 The documentation is under development
 
-[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord))](https://discord.com/users/725672294692945991)
+[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
