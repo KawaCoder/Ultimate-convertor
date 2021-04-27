@@ -9,6 +9,13 @@
 
 
 
+<a href="
+https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+https://www.buymeacoffee.com/DR34MM4K3R
+
+
 # Ultimate-convertor
 Ultimate convertor peut facilement convertir tout ce dont vous avez besoin! Comme convertir du binaire en hexadécimal, du binaire en décimal, inversement, et bien plus! Les sorties sont en français.
 La documentation est en développement
