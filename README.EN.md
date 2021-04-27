@@ -1,7 +1,3 @@
-
-[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
-
-
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 # Ultimate-convertor
@@ -20,7 +16,7 @@
 
 
 ## About the program
-Ultimate convertor can easily convert all that you need! Like convert binary to hexadecimal, or binary to decimal, and much more! The outputs are in French.
+Ultimate convertor can easily convert all that you need! Like convert binary to hexadecimal, or binary to decimal, and much more! The outputs are in French. Icon of the executable made by: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
 <br/><br/>
 ## How to use Ultimate-convertor?
 First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)And then, launch the software.
@@ -39,7 +35,7 @@ Then simply select what you want to convert and continue surfing with these comm
 ## Table of content:<br/>
 ### 1. ["Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#windows-protected-your-pc-popup)<br/>
 ### 2. [ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#erreur-entree-incorrecte-entrez-une-option-valide-xxxxxetc)<br/>
-### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
+### 3. [ERREUR: Entree incorrecte: Valeur non binaire.](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
 ### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
 
 <br/><br/>
@@ -71,4 +67,12 @@ You must follow these steps:
 
 If this showed up, it is that you entered a wrong option into a menu. Only showed numbers are allowed. If you have problem, do not hesitate to contact me!
 
-icon of the executable made by: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
+<br/><br/>
+
+## ERREUR: Entree incorrecte: Valeur non binaire.
+
+If this message showed up, it means that you have to enter a binary number (only made up of 1 and 0). If you have problem, do not hesitate to contact me!
+
+
+## Contact
+[![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
