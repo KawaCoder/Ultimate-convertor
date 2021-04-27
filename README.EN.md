@@ -19,9 +19,9 @@
 [![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Ultimate-convertor/raw/main/ultimateConvertor.jar)
 
 
-# About the program
+## About the program
 Ultimate convertor can easily convert all that you need! Like convert binary to hexadecimal, or binary to decimal, and much more! The outputs are in French.
-
+<br/><br/>
 ## How to use Ultimate-convertor?
 First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)And then, launch the software.
 <br/>
@@ -33,12 +33,12 @@ This window will open, and the program is ready! Now you have to select one of t
 ![image](https://user-images.githubusercontent.com/67145585/116277718-0964f680-a786-11eb-8aef-7fc9d8eef229.png)
 <br/>
 Then simply select what you want to convert and continue surfing with these commands.
-<br/><br/>
+<br/><br/><br/>
 # Special cases and internal errors
 <br/><br/>
 ## Table of content:<br/>
-### 1. "Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
-### 2. [About the program](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
+### 1. ["Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
+### 2. [ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
 ### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
 ### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
 
@@ -62,5 +62,9 @@ You must follow these steps:
 <br/>
 
 ![Untitled3](https://user-images.githubusercontent.com/67145585/116275972-5d6edb80-a784-11eb-91f7-f593722ca72c.png)
+
+<br/><br/><br/><br/>
+
+## ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)
 
 icon of the executable made by: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
