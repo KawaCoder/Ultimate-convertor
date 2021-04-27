@@ -13,24 +13,23 @@
 
 
 # Ultimate-convertor
-Ultimate convertor can easily convert all that you need! Comme convertir du binaire en hexadécimal, du binaire en décimal, inversement, et bien plus! Les sorties sont en français.
-La documentation est en développement
+Ultimate convertor can easily convert all that you need! Like convert binary to hexadecimal, or binary to decimal, and much more! The outputs are in French.
 
-## Comment utiliser Ultimate-convertor?
-Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suivant ce lien: https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe
-Ensuite, vous aurez besoin de lancer le logiciel.
+## How to use Ultimate-convertor?
+First, you need to download the program by going into the [downloads section](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)And then, launch the software.
 <br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/67145585/116277111-76c45780-a785-11eb-9d5c-0d9ba2a146a3.png)
 <br/>
-Cette fenêtre va donc s'ouvrir, et le logiciel est prêt! Maintenant, il vous faut séléctionner une des conversion, simplement en entrant au clavier une des 7 options disponibles. Ensuite, d'autres options vont s'afficher, comme dans l'image ci-dessous:
+This window will open, and the program is ready! Now you have to select one of the conversions, simply by entering one of the 7 available options with the keyboard. Then, other options will appear, as in the image below:
 <br/>
 ![image](https://user-images.githubusercontent.com/67145585/116277718-0964f680-a786-11eb-8aef-7fc9d8eef229.png)
 <br/>
+Then simply select what you want to convert and continue surfing with these commands.
 
-## Cas particuliers et erreurs internes
+## Special cases and internal errors
 
-Il se peut que votre ordinateur affiche ce message:
+If you are using Windows, your computer may display this message:
 <br/>
 <br/>
 
@@ -38,8 +37,8 @@ Il se peut que votre ordinateur affiche ce message:
 
 <br/>
 <br/>
-ATTENTION: cela ne signifie pas que ce logiciel est un virus! c'est simplement qu'il n'est pas signé, et donc pas certifié par windows. Mais cela n'a aucun impact sur votre ordinateur.
-Vous devez suivre ces étapes:
+WARNING: this does not mean that this software is a virus! It is simply that it is not signed, and consequently not certified by windows. But this has no impact on your computer.
+You must follow these steps:
 <br/>
 <br/>
 
@@ -49,4 +48,4 @@ Vous devez suivre ces étapes:
 
 ![Untitled3](https://user-images.githubusercontent.com/67145585/116275972-5d6edb80-a784-11eb-91f7-f593722ca72c.png)
 
-icône de l'éxécutable faite par: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
+icon of the executable made by: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
