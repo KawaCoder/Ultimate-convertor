@@ -20,7 +20,8 @@ Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suiv
 Ensuite, vous aurez besoin de lancer le logiciel. Il se peut que votre ordinateur affiche ce message:
 <br/>
 <br/>
-![Untitled](https://user-images.githubusercontent.com/67145585/116274745-395eca80-a783-11eb-8568-7ebfc48130d2.png)
+![Untitled](https://user-images.githubusercontent.com/67145585/116276219-9c049600-a784-11eb-8fdf-24936aa24a2e.png)
+
 <br/>
 <br/>
 ATTENTION: cela ne signifie pas que ce logiciel est un virus! c'est simplement qu'il n'est pas signé, et donc pas certifié par windows. Mais cela n'a aucun impact sur votre ordinateur.
