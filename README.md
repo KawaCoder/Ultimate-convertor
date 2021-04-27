@@ -7,11 +7,12 @@
 [![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Ultimate-convertor/raw/main/ultimateConvertor.jar)
 <br/>
 <br/>
-## Table of content:<br/>
-### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#téléchargements)<br/>
+## Table des matières:<br/>
+### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#t%C3%A9l%C3%A9chargements)<br/>
 ### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#a-propos-du-programme)<br/>
-### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#how-to-use-ultimate-convertor)
-### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#Cas-particuliers-et-erreurs-internes)
+### 3. [Comment utiliser Ultimate-convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor#comment-utiliser-ultimate-convertor)
+### 4. [Cas particuliers et erreures internes](https://github.com/DR34M-M4K3R/Ultimate-convertor#cas-particuliers-et-erreurs-internes)
+#### &nbsp;&nbsp;&nbsp;&nbsp;4.a) ["Windows à protégé votre ordinateur" popup]()
 ### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact)
 
 <br/>
@@ -32,16 +33,17 @@ Cette fenêtre va donc s'ouvrir, et le logiciel est prêt! Maintenant, il vous f
 ![image](https://user-images.githubusercontent.com/67145585/116277718-0964f680-a786-11eb-8aef-7fc9d8eef229.png)
 <br/>
 
-## Cas particuliers et erreurs internes
+# Cas particuliers et erreurs internes
+<br/><br/>
 
+## "Windows à protégé votre ordinateur" popup
 Il se peut que votre ordinateur affiche ce message:
 <br/>
 <br/>
 
 ![Untitled](https://user-images.githubusercontent.com/67145585/116276219-9c049600-a784-11eb-8fdf-24936aa24a2e.png)
 
-<br/>
-<br/>
+<br/><br/>
 ATTENTION: cela ne signifie pas que ce logiciel est un virus! c'est simplement qu'il n'est pas signé, et donc pas certifié par windows. Mais cela n'a aucun impact sur votre ordinateur.
 Vous devez suivre ces étapes:
 <br/>
