@@ -64,7 +64,8 @@ Vous devez suivre ces étapes:
 
 ## ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)
 
-If this showed up, it is that you entered a wrong option into a menu. Only showed numbers are allowed. If you have problem, do not hesitate to contact me!
+Si cela apparaît, c'est que vous avez saisi une mauvaise option dans un menu. Seuls les numéros indiqués sont autorisés. Si vous avez des problèmes, n'hésitez pas à me contacter !
+
 
 <br/><br/>
 
