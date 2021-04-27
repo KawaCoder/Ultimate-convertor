@@ -2,6 +2,7 @@
 
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
 
+[![hey](https://img.shields.io/badge/Download%20.exe-181717?style=for-the-badge&color=blue)](https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe)
 
 # Ultimate-convertor
 Ultimate convertor peut facilement convertir tout ce dont vous avez besoin! Comme convertir du binaire en hexadécimal, du binaire en décimal, inversement, et bien plus! Les sorties sont en français.
