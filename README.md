@@ -4,6 +4,11 @@
 
 [![hey](https://img.shields.io/badge/Download%20.exe-181717?style=for-the-badge&color=blue)](https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe)
 
+[![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Ultimate-convertor/raw/main/ultimateConvertor.jar)
+
+
+
+
 # Ultimate-convertor
 Ultimate convertor peut facilement convertir tout ce dont vous avez besoin! Comme convertir du binaire en hexadécimal, du binaire en décimal, inversement, et bien plus! Les sorties sont en français.
 La documentation est en développement
