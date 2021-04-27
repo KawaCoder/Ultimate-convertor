@@ -8,12 +8,18 @@
 <br/>
 <br/>
 ## Table des matières:<br/>
-### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#t%C3%A9l%C3%A9chargements)<br/>
-### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#a-propos-du-programme)<br/>
+### 1. [Téléchargements](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#t%C3%A9l%C3%A9chargements)
+### 2. [A propos du programme](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#a-propos-du-programme)
 ### 3. [Comment utiliser Ultimate-convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor#comment-utiliser-ultimate-convertor)
 ### 4. [Cas particuliers et erreures internes](https://github.com/DR34M-M4K3R/Ultimate-convertor#cas-particuliers-et-erreurs-internes)
-#### &nbsp;&nbsp;&nbsp;&nbsp;4.a) ["Windows à protégé votre ordinateur" popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#windows-%C3%A0-prot%C3%A9g%C3%A9-votre-ordinateur-popup)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.a) ["Windows à protégé votre ordinateur" popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#windows-%C3%A0-prot%C3%A9g%C3%A9-votre-ordinateur-popup)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.b) [ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#erreur-entree-incorrecte-entrez-une-option-valide-xxxxxetc)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.c) [ERREUR: Entree incorrecte: Valeur non binaire](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#erreur-entree-incorrecte-valeur-non-binaire)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.d) [ERREUR: Entree incorrecte: Entrez un nombre.](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#erreur-entree-incorrecte-entrez-un-nombre)
+
 ### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact)
+### 6. [How can i contribute?]()
+
 
 <br/>
 <br/>
@@ -76,3 +82,9 @@ Si ce message s'affiche, cela signifie que vous devez saisir un chiffre et non u
 ## Contact
 
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
+
+## Comment puis-je contribuer?
+
+Pour contribuer au développement des projets, vous pouvez [me contacter sur discord](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact),je suis disponible tout le temps, ou bien faire un don (buy me a coffee). Je vous en serais extrèmement reconnaissant! 🤗🤗
+<br/><br/>
+<a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
