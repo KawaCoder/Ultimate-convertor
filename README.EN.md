@@ -1,9 +1,14 @@
-## Documentation under development!
 
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
 
 
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+# Ultimate-convertor
+## Table of content:<br/>
+1. [Downloads](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
+2. [About the program]()
+
 
 ## Downloads
 
@@ -12,7 +17,7 @@
 [![hey](https://img.shields.io/badge/Download%20.jar-181717?style=for-the-badge&color=red&logo=java)](https://github.com/DR34M-M4K3R/Ultimate-convertor/raw/main/ultimateConvertor.jar)
 
 
-# Ultimate-convertor
+# About the program
 Ultimate convertor can easily convert all that you need! Like convert binary to hexadecimal, or binary to decimal, and much more! The outputs are in French.
 
 ## How to use Ultimate-convertor?
