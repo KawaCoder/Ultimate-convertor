@@ -20,6 +20,7 @@ Tout d'abord, vous avez besoin de télécharger le logiciel pour windows en suiv
 Ensuite, vous aurez besoin de lancer le logiciel. Il se peut que votre ordinateur affiche ce message:
 <br/>
 <br/>
+
 ![Untitled](https://user-images.githubusercontent.com/67145585/116276219-9c049600-a784-11eb-8fdf-24936aa24a2e.png)
 
 <br/>
@@ -28,9 +29,11 @@ ATTENTION: cela ne signifie pas que ce logiciel est un virus! c'est simplement q
 Vous devez suivre ces étapes:
 <br/>
 <br/>
+
 ![Untitled2](https://user-images.githubusercontent.com/67145585/116275294-c86be280-a783-11eb-8caa-ccf250b3bd69.png)
 <br/>
 <br/>
+
 ![Untitled3](https://user-images.githubusercontent.com/67145585/116275972-5d6edb80-a784-11eb-91f7-f593722ca72c.png)
 
 icône de l'éxécutable faite par: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
