@@ -37,10 +37,12 @@ Then simply select what you want to convert and continue surfing with these comm
 # Special cases and internal errors
 <br/><br/>
 ## Table of content:<br/>
-### 1. ["Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#downloads)<br/>
-### 2. [ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#about-the-program)<br/>
+### 1. ["Windows Protected Your PC” Popup](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#windows-protected-your-pc-popup)<br/>
+### 2. [ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#erreur-entree-incorrecte-entrez-une-option-valide-xxxxxetc)<br/>
 ### 3. [How to use Ultimate Convertor?](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#how-to-use-ultimate-convertor)
 ### 4. [Special cases and internal errors](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#special-cases-and-internal-errors)
+
+<br/><br/>
 
 ## "Windows Protected Your PC” Popup
 
@@ -63,8 +65,10 @@ You must follow these steps:
 
 ![Untitled3](https://user-images.githubusercontent.com/67145585/116275972-5d6edb80-a784-11eb-91f7-f593722ca72c.png)
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 ## ERREUR: Entree incorrecte: Entrez une option valide (x/x/x/x/x/etc...)
+
+If this showed up, it is that you entered a wrong option into a menu. Only showed numbers are allowed. If you have problem, do not hesitate to contact me!
 
 icon of the executable made by: [Icongeek26](https://www.flaticon.com/fr/auteurs/icongeek26)
