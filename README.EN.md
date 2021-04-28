@@ -82,3 +82,7 @@ If this message shows up, it means that you have to enter a number, and not a le
 
 ## Contact
 [![hey](https://img.shields.io/badge/Contact%20me%20on%20discord-181717?style=for-the-badge&logo=discord)](https://discord.com/users/725672294692945991)
+
+<br/><br/>
+## How can i contribute?
+To contribute to the development of the projects, you can [contact me on discord](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.EN.md#contact), I am available all the time, or make a donation (buy me a coffee). I would be extremely grateful!
