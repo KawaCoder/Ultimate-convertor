@@ -18,7 +18,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.d) [ERREUR: Entree incorrecte: Entrez un nombre.](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#erreur-entree-incorrecte-entrez-un-nombre)
 
 ### 5. [Contact (24/24h)](https://github.com/DR34M-M4K3R/Ultimate-convertor/blob/main/README.md#contact)
-### 6. [Comment puis-je contribuer?]()
+### 6. [Comment puis-je contribuer?](https://github.com/DR34M-M4K3R/Ultimate-convertor#comment-puis-je-contribuer)
 
 
 <br/>
