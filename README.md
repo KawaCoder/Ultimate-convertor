@@ -1,9 +1,10 @@
-<a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-orange.svg?style=for-the-badge&logo=mozilla)](https://www.mozilla.org/en-US/MPL/)
 
 
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. 
+   - License holder: DR34M-M4K3R#7751-->
 
 
 
