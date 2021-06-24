@@ -1,5 +1,12 @@
 <a href="https://www.buymeacoffee.com/DR34MM4K3R" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+
+
+
 ## Téléchargements
 
 [![hey](https://img.shields.io/badge/Download%20.exe-181717?style=for-the-badge&color=blue&logo=windows)](https://github.com/DR34M-M4K3R/Ultimate-convertor/releases/download/1.0/Ultimate-Convertor.exe)
